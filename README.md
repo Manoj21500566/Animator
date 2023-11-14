@@ -1,6 +1,6 @@
-## EX NO:6
 
-# <p align="center"> Animator
+
+# Animator
 
 ## Aim:
 To develop a animator using unity engine
